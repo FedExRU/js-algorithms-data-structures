@@ -1,7 +1,7 @@
 {
   "name": "js-algorithms",
   "version": "1.0.0",
-  "description": "Basic version of JS most needed algorithms and data structures",
+  "description": "Basic version of JS most popular algorithms and data structures",
   "private": true,
   "scripts": {
     "build": "webpack",
